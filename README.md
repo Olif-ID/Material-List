@@ -1,4 +1,4 @@
-# Material-List
+# Material List
 A comprehensive listing of materials used in the project and their various formats
 
 | Common Name                         | CAS#           | Odor Group | Type     | RS  | IRFA | MSDS |
